@@ -1,1 +1,1 @@
-DEPRECATED. Use `ntypescript` [https://www.npmjs.com/package/ntypescript](https://www.npmjs.com/package/ntypescript) as it follows a simple `orignal` -> `noriginal` name transform for `require` as well as globals `tsc` & `tsserver`.
+DEPRECATED. Use `ntypescript` [https://www.npmjs.com/package/ntypescript](https://www.npmjs.com/package/ntypescript) as it follows a simple `original` -> `noriginal` name transform for `require` as well as globals `tsc` & `tsserver`.

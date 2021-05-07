@@ -1,11 +1,10 @@
 {
   "name": "tsc",
-  "version": "1.20150623.0+f2044a901165a2a97813772353b57dd9ed4796ca",
-  "description": "Latest code from microsoft/typescript packaged and released",
+  "version": "2.0.0",
+  "description": "A deprecated release of the TypeScript compiler",
   "main": "./bin/typescript.js",
   "bin": {
-    "tsc": "./bin/tsc",
-    "tsserver": "./bin/tsserver"
+    "tsc": "./bin/tsc"
   },
   "typescript": {
     "definition": "./bin/typescript.d.ts"

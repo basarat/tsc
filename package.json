@@ -1,6 +1,6 @@
 {
   "name": "tsc",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A deprecated release of the TypeScript compiler",
   "main": "./bin/tsc.js",
   "bin": {

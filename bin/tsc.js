@@ -45,3 +45,5 @@ console.log()
 console.log(`To get access to the TypeScript compiler, ${colours.fg.blue}tsc${colours.reset}, from the command line either:\n`)
 console.log(`- Use ${colours.bright}npm install typescript${colours.reset} to first add TypeScript to your project ${colours.bright}before${colours.reset} using npx`)
 console.log(`- Use ${colours.bright}yarn${colours.reset} to avoid accidentally running code from un-installed packages`)
+
+process.exitCode = 1;
